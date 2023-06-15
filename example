@@ -1,0 +1,18 @@
+Add more ruff rules (TheAlgorithms#1506)
+* Add more ruff rules
+
+* Add more ruff rules
+
+* pre-commit: Update ruff v0.0.1 -> v0.0.2
+
+* Apply suggestions from code review
+
+* Fix doctest
+
+* Fix doctest (ignore whitespace)
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+---------
